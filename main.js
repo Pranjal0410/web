@@ -65,8 +65,7 @@ document.querySelector('#app').innerHTML = `
       <div class="about-text">
         <p>
           I'm a BBA student pursuing Digital Business &amp; Entrepreneurship at
-          IIM Bangalore alongside Finance &amp; Economics at Christ University.
-          I'm particularly interested in understanding how financial markets,
+          IIM Bangalore. I'm particularly interested in understanding how financial markets,
           business strategy, economics and data come together to shape better decisions.
         </p>
         <p>
@@ -123,18 +122,6 @@ document.querySelector('#app').innerHTML = `
           <div class="timeline-tags">
             <span class="timeline-tag">Digital Business</span>
             <span class="timeline-tag">Entrepreneurship</span>
-          </div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-dot"></div>
-        <div class="timeline-content">
-          <span class="timeline-date">June 2025 — March 2028</span>
-          <h3 class="timeline-role">Christ University, Bangalore</h3>
-          <p class="timeline-company">Bachelor of Business Administration — BBA</p>
-          <div class="timeline-tags">
-            <span class="timeline-tag">Finance</span>
-            <span class="timeline-tag">Economics</span>
           </div>
         </div>
       </div>
